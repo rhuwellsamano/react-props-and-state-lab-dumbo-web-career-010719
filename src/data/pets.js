@@ -6,7 +6,7 @@ const allPets = [
     age: 4,
     weight: 1,
     name: 'Trident',
-    isAdopted: false,
+    isAdopted: true,
   },
   {
     id: '2c902312-dfa3-446f-8b4b-5e115170d807',
@@ -24,7 +24,7 @@ const allPets = [
     age: 2,
     weight: 5,
     name: 'Hemingway',
-    isAdopted: false,
+    isAdopted: true,
   },
   {
     id: 'a7c8b608-0d39-401b-a693-1bc882f21425',
@@ -186,7 +186,7 @@ const allPets = [
     age: 8,
     weight: 6,
     name: 'Kennedy',
-    isAdopted: false,
+    isAdopted: true,
   },
   {
     id: '6eaecf43-a54c-435d-a1eb-b4e7195b6a1d',
